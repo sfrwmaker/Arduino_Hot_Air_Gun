@@ -4,6 +4,6 @@ The detailed description available on hackster.io: https://www.hackster.io/maker
 
 Release history:
 Jan 6 2022, version 2.00
-* The hadrware part revisited
+* The hardware part revisited
 * The firmware part revisited and recreated
 
